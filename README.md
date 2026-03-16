@@ -14,7 +14,7 @@ steamworks_sdk_162\sdk\tools\ContentBuilder\content\linux_content
 steamworks_sdk_162\sdk\tools\ContentBuilder\content\windows64_content
 
 # Build instructions
-To build dungeon sweeper launch steamcmd.exe
+To build dungeon sweeper launch steamcmd.exe, under steamworks_sdk_162\sdk\tools\ContentBuilder\builder
 
 login command.
 login [STEAM_USERNAME] [PASSWORD]
