@@ -16,8 +16,8 @@ steamworks_sdk_162\sdk\tools\ContentBuilder\content\windows64_content
 # Build instructions
 To build dungeon sweeper launch steamcmd.exe
 
-login command. Username is [STEAM_USERNAME]tehbigcheeze
-login tehbigcheeze [PASSWORD]
+login command.
+login [STEAM_USERNAME] [PASSWORD]
 
 command to upload build:
 
