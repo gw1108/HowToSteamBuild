@@ -1,0 +1,17 @@
+"AppBuild"
+{
+	"AppID" "4109840" // Your AppID
+	"Desc" "DungeonSweeper build from George's computer" // internal description for this build
+	"Preview" "0" // make this a preview build only, nothing is uploaded
+	//"Local" "..\..\ContentServer\htdocs" // put content on local content server instead of uploading to Steam
+	//"SetLive" "default" // set this build live on beta branch AlphaTest
+	"ContentRoot" "..\content\" // content root folder relative to this script file
+	"BuildOutput" "..\\output\\" // put build cache and log files on different drive for better performance
+	"verbose" "1" // spew more build details in console
+	"Depots"
+	{
+		// file mapping instructions for each depot are in separate script files
+		"4109841" "depot_build_4109841.vdf"
+		"4109842" "depot_build_4109842.vdf"
+	}
+}
